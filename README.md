@@ -7,7 +7,7 @@ Acompanhe por esse perfil a minha evolução!
 
 Meu nome é Henrique Lima Guedes e no ínicio de 2025 comecei minha trajetória para me tornar um Analista de Dados! desde então me esforço para aprender e aprimorar meus conhecimentos sobre a área! 
 
-Em 2025 comecei a cursar a graduação em [Sistemas de Informação](https://www.uninter.com/graduacao/a-distancia/bacharelado-em-sistemas-de-informacao/?gclsrc=aw.ds&gad_source=1&gclid=Cj0KCQjw2ZfABhDBARIsAHFTxGxXPgqt89d2mVvKGZNIDA0PcSCtfH5KkMaFS6yb5PbEsEWiH9clTJcaAheHEALw_wcB) e também a realizar bootcamps profissionalizantes, alguns dos quais tiveram parcerias de empresas de renome como a [Suzano](https://loja.suzano.com.br/suzano/pt/aboutSuzano), [Santander](https://www.santander.com.br/institucional-santander/santander-no-brasil?ic=homepf-footer-sobre) e a [D.I.O](https://www.dio.me)
+Em Agosto de 2025 comeceçarei a cursar a graduação em [Sistemas de Informação](https://www.uninter.com/graduacao/a-distancia/bacharelado-em-sistemas-de-informacao/?gclsrc=aw.ds&gad_source=1&gclid=Cj0KCQjw2ZfABhDBARIsAHFTxGxXPgqt89d2mVvKGZNIDA0PcSCtfH5KkMaFS6yb5PbEsEWiH9clTJcaAheHEALw_wcB) juntamente com a realização de bootcamps profissionalizantes, alguns dos quais tiveram parcerias de empresas de renome como a [Suzano](https://loja.suzano.com.br/suzano/pt/aboutSuzano), e a [D.I.O](https://www.dio.me)
 
 Por fim, busco uma oportunidade para realizar meu sonho e provar meu talento e dedicação! Obrigado por me ajudar nesse projeto!
 
@@ -16,19 +16,14 @@ Por fim, busco uma oportunidade para realizar meu sonho e provar meu talento e d
 | Hard Skills | Soft Skills |
 |---|---|
 | Python  | Disciplina |
-| SQL/MySQL  | Organização  |
-| Power BI  | Pensamento crítico  |
-| Azure e AWS | Dedicação |
+| Excel  | Pensamento crítico  |
 | Git e GitHub | Criatividade |
 
 ## 🗣️ Linguagens
 
-![Python](https://img.shields.io/badge/python-Expert-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Power BI](https://img.shields.io/badge/Power_BI-Expert-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Avançado-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-Avançado-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Intermediário-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-Intermediário-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/python-Básico/Intermediário-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Power BI](https://img.shields.io/badge/Power_BI-Básico-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-Básico-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📱Contate-me
 Se conecte comigo por meio de minhas redes sociais!
