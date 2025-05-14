@@ -7,7 +7,7 @@ Acompanhe por esse perfil a minha evolução!
 
 Meu nome é Henrique Lima Guedes e no ínicio de 2025 comecei minha trajetória para me tornar um Profissional de TI! desde então me esforço para aprender e aprimorar meus conhecimentos sobre a área! 
 
-Em Maio de 2025 comeceçarei a cursar a graduação em Big Data e inteligência Analítica na PURPC juntamente com a realização de bootcamps profissionalizantes, alguns dos quais tiveram parcerias de empresas de renome como a [Suzano](https://loja.suzano.com.br/suzano/pt/aboutSuzano), e a [D.I.O](https://www.dio.me)
+Sou um estudante universitário em Big Data e inteligência Analítica na PURPC e juntamente realizo bootcamps profissionalizantes, alguns dos quais tiveram parcerias de empresas de renome como a [Suzano](https://loja.suzano.com.br/suzano/pt/aboutSuzano), e a [D.I.O](https://www.dio.me)
 
 Por fim, busco uma oportunidade para realizar meu sonho e provar meu talento e dedicação! Obrigado por me ajudar nesse projeto!
 
