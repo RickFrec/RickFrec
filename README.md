@@ -32,4 +32,4 @@ Se conecte comigo por meio de minhas redes sociais!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-lima-guedes-204b56216)
 
 ## ❤️ Obrigado pela atenção!
-![Gif não carregado!](https://media.discordapp.net/attachments/1364012600236445716/1364013759344939099/imagem_2025-04-21_195629414_2_1.gif?ex=6825ca0e&is=6824788e&hm=30314f74b0b76696881e144d71407e24f41c066efd4c6a165f1fa1a192ece80d&=&width=640&height=640)
+![Gif não carregado!](https://media.discordapp.net/attachments/1364012600236445716/1364013759344939099/imagem_2025-04-21_195629414_2_1.gif?ex=6840280e&is=683ed68e&hm=ac8c06c9e6287553e7e7a1d17b106379b1839e156ccf03e5538b0369a68d70ed&=&width=640&height=640)
